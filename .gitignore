@@ -1,0 +1,13 @@
+
+Save the file with **Ctrl + S**.
+
+## Step 3: Create a `.gitignore` file
+
+Create another file named `.gitignore` in the same folder and add:
+
+```gitignore
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
